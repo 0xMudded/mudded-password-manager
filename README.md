@@ -17,7 +17,7 @@ Install [gnupg](https://www.gnupg.org/)
 mpw [COMMAND] [ARG]
 ```
 
-```sh
+```
 COMMANDS:
     init        Initializes new store (.store) inside user's home directory. User must specify their GPG key ID as the required arg.
     generate    Generates new password. Password is encrypted, stored in password store and copied to clipboard. User must specify the password name as the required arg.
